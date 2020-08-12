@@ -1,4 +1,2 @@
-a=int(input())
-b=int(input())
-sum=a+b
-print(sum)
+def add(a,b)
+    return a+b
